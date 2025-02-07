@@ -2,7 +2,7 @@
 
 > first off, I build up my momentum by coding for a hour daily.
 
-! code for a hour for 90 days : 0/90. // updates daily.
+! code for a hour for 90 days : 1/90. // updates daily.
 
 > second off, I tackle on hard projects after building a solid programming foundation crazy innit?
 ! build a web server, a compiler, an operating system and a 8-bit
@@ -19,3 +19,14 @@ system design and more CS principles.
 2. Complete a course on "System Design"
 3. Complete a course on "Networking"
 4. Master DSA & Improve Problem Solving.
+
+
+```
+let sessions = [
+{
+ date: 7th feb, 2025
+ session: 1
+ duration: 60m+
+}
+]
+```
