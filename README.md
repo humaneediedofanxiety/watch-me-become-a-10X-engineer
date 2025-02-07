@@ -1,6 +1,7 @@
 ### Watch me become a 10X engineer.
 
 > first off, I build up my momentum by coding for a hour daily.
+
 ! code for a hour for 90 days : 0/90. // updates daily.
 
 > second off, I tackle on hard projects after building a solid programming foundation crazy innit?
@@ -14,7 +15,7 @@ system design and more CS principles.
 4. Build a database.
 5. Build a 8-bit computer.
 
-A. Complete course "NAND to Tetris"
-B. Complete a course on "System Design"
-C. Complete a course on "Networking"
-D. Master DSA & Improve Problem Solving.
+1. Complete course "NAND to Tetris"
+2. Complete a course on "System Design"
+3. Complete a course on "Networking"
+4. Master DSA & Improve Problem Solving.
