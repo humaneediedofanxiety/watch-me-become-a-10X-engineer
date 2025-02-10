@@ -51,6 +51,12 @@ let sessions = [
  date: 9th feb, 2025
  session: 5
  duration: 50m+
+},
+
+{
+ date: 10th feb, 2025
+ session: 6
+ duration: 25m+
 }
 ]
 ```
