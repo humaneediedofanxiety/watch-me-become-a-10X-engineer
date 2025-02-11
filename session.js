@@ -2,11 +2,9 @@ console.log("So what is the plan?");
 console.log("I'll list down some filthy short-term goals");
 
 let short_term = [
-  "1.Get the javascript basics certificate from HackerRank",
-  "2.Complete learning all the essential javascript concepts.",
-  "3.Get the javascript intermediate certificate and complete JS challenge.",
-  "4.Learn nodeJS and more about backend development.",
-  "5.Build a test-case web server with nodeJS.",
+  "1.Complete learning all the essential javascript concepts.",
+  "2.Learn nodeJS and more about backend development & get certificate",
+  "3.Build a test-case web server with nodeJS.",
 ];
 
 let hacker_rank = [
