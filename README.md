@@ -2,7 +2,7 @@
 
 > first off, I build up my momentum by coding for a hour daily.
 
-! code for 90 days : 2/90. // updates daily.
+! code for 90 days : 3/90. // updates daily.
 
 > second off, I tackle on hard projects after building a solid programming foundation crazy innit?
 ! build a web server, a compiler, an operating system and a 8-bit
@@ -87,6 +87,12 @@ let sessions = [
  date: 15th feb, 2025
  session: 9
  duration: 38m+
+},
+
+{
+ date: 16th feb, 2025
+ session: 10
+ duration: 50m+
 }
 
 ]
